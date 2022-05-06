@@ -1,2 +1,2 @@
 # android-studio
-This repo ncontains my MAD Projects
+This repo contains my MAD Projects
